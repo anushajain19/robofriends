@@ -1,1 +1,1 @@
-# Getting Started by viewing and searching some of the robotic creatures!
+# First attempt on REACT.js by viewing and searching some of the robotic creatures!
