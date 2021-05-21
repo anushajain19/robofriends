@@ -2,7 +2,6 @@
   "name": "react-learning",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://anushajain19.github.io/robofriends",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
@@ -18,8 +17,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
